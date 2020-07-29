@@ -1,5 +1,15 @@
 ### Welcome To My Github!👋
-#### 🌱 I’m currently learning: Wordpress (w/ The Genesis Framework)
+#### 👨‍💻  I’m currently working on: 
+* Transferring my portfolio onto a Wordpress back-end
+* Creating a Discord Bot
+#### 👨‍💻  I’m currently learning: 
+* Wordpress (w/ The Genesis Framework)
+* ReactJS
+* DiscordJS
+#### 👨‍💻  I have experience with:
+* HTML, CSS, PHP, JavaScript
+* NoPHP, Cloud Database Systems
+* AndroidSDK, Firebase
 <!--
 **IsaacPCooper/IsaacPCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
