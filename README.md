@@ -10,6 +10,11 @@
 * HTML, CSS, PHP, JavaScript
 * NoPHP, Cloud Database Systems
 * AndroidSDK, Firebase
+
+#### ✨ Where to find my work ✨:
+* Codepen: https://codepen.io/IsaacPCooper
+* GitHub: https://github.com/IsaacPCooper
+* Portfolio: https://isaacpcooper.github.io/
 <!--
 **IsaacPCooper/IsaacPCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
