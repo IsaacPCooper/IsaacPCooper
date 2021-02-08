@@ -1,13 +1,13 @@
 ### Welcome To My Github!👋
 #### 👨‍💻  I’m currently working on: 
-* Transferring my portfolio onto a Wordpress back-end
-* Creating a Discord Bot
+* Learning VueJs
+* Creating bespoke wordpress websites.
 #### 👨‍💻  I’m currently learning: 
-* Wordpress (w/ The Genesis Framework)
-* ReactJS
-* DiscordJS
+* VueJS
+* Laravel PHP
 #### 👨‍💻  I have experience with:
-* HTML, CSS, PHP, JavaScript
+* Wordpress
+* HTML, CSS, PHP, JavaScript, ReactJS, VueJS
 * NoPHP, Cloud Database Systems
 * AndroidSDK, Firebase
 
