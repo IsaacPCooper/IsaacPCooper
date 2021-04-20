@@ -8,7 +8,7 @@
 #### 👨‍💻  I have experience with:
 * Wordpress
 * HTML, CSS, PHP, JavaScript, ReactJS, VueJS
-* NoPHP, Cloud Database Systems
+* NoSQL, Cloud Database Systems
 * AndroidSDK, Firebase
 
 #### ✨ Where to find my work ✨:
