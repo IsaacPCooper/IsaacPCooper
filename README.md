@@ -4,7 +4,8 @@
 * Creating bespoke wordpress websites.
 #### 👨‍💻  I’m currently learning: 
 * VueJS
-* Laravel PHP
+* Tailwind CSS
+* SaSS
 #### 👨‍💻  I have experience with:
 * Wordpress
 * HTML, CSS, PHP, JavaScript, ReactJS, VueJS
