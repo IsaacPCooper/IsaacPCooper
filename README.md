@@ -1,13 +1,13 @@
 ### Welcome To My Github!👋
 #### 👨‍💻  I’m currently working on: 
-* Learning VueJs
+* Using the VILT Stack - (Vue, Inertia, Laravel, Tailwind)
 * Creating bespoke wordpress websites.
 #### 👨‍💻  I’m currently learning: 
 * VueJS
 * Tailwind CSS
-* SaSS
+* Laravel
 #### 👨‍💻  I have experience with:
-* Wordpress
+* Wordpress Site development
 * HTML, CSS, PHP, JavaScript, ReactJS, VueJS
 * NoSQL, Cloud Database Systems
 * AndroidSDK, Firebase
