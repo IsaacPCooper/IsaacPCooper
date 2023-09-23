@@ -1,14 +1,13 @@
 ### Welcome To My Github!👋
 #### 👨‍💻  I’m currently working on: 
-* Using the VILT Stack - (Vue, Inertia, Laravel, Tailwind)
-* Creating bespoke wordpress websites.
+* Using Angular / Angular Material to create enterprise web-applications
 #### 👨‍💻  I’m currently learning: 
-* VueJS
-* Tailwind CSS
-* Laravel
+* Angular
+* Angular Material
+* TypeScript
 #### 👨‍💻  I have experience with:
 * Wordpress Site development
-* HTML, CSS, PHP, JavaScript, ReactJS, VueJS
+* HTML, CSS, PHP, JavaScript, ReactJS, VueJS, Angular
 * NoSQL, Cloud Database Systems
 * AndroidSDK, Firebase
 
