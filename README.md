@@ -1,6 +1,7 @@
 ### Welcome To My Github!👋
 #### 👨‍💻  I’m currently working on: 
 * Using Angular / Angular Material to create enterprise web-applications
+* Learning about React in my own time ⚡⚡
 #### 👨‍💻  I’m currently learning: 
 * Angular
 * Angular Material
